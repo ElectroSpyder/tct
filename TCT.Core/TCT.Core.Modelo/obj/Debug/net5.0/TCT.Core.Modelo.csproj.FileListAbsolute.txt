@@ -1,0 +1,12 @@
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\bin\Debug\net5.0\TCT.Core.Modelo.deps.json
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\bin\Debug\net5.0\TCT.Core.Modelo.dll
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\bin\Debug\net5.0\ref\TCT.Core.Modelo.dll
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\bin\Debug\net5.0\TCT.Core.Modelo.pdb
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\TCT.Core.Modelo.csproj.AssemblyReference.cache
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\TCT.Core.Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\TCT.Core.Modelo.AssemblyInfoInputs.cache
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\TCT.Core.Modelo.AssemblyInfo.cs
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\TCT.Core.Modelo.csproj.CoreCompileInputs.cache
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\TCT.Core.Modelo.dll
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\ref\TCT.Core.Modelo.dll
+D:\Proyecto NET\Telecomunicaciones\TCT.Core\TCT.Core.Modelo\obj\Debug\net5.0\TCT.Core.Modelo.pdb

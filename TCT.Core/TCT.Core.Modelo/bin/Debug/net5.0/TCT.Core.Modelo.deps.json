@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TCT.Core.Modelo/1.0.0": {
+        "runtime": {
+          "TCT.Core.Modelo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCT.Core.Modelo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
