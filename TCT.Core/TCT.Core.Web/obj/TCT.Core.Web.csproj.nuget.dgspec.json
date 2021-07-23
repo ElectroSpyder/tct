@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj": {}
+    "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj": {}
   },
   "projects": {
-    "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj": {
+    "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj",
+        "projectUniqueName": "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj",
         "projectName": "TCT.Core.Modelo",
-        "projectPath": "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj",
-        "packagesPath": "C:\\Users\\Pedro René González\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\obj\\",
+        "projectPath": "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj",
+        "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -19,7 +19,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pedro René González\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj": {
+    "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj",
+        "projectUniqueName": "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj",
         "projectName": "TCT.Core.Web",
-        "projectPath": "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj",
-        "packagesPath": "C:\\Users\\Pedro René González\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\obj\\",
+        "projectPath": "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\TCT.Core.Web.csproj",
+        "packagesPath": "C:\\Users\\Sistemas\\.nuget\\packages\\",
+        "outputPath": "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
@@ -80,7 +80,7 @@
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Pedro René González\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Sistemas\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -96,8 +96,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj": {
-                "projectPath": "D:\\Proyecto NET\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj"
+              "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj": {
+                "projectPath": "D:\\Proyecto Net\\Telecomunicaciones\\TCT.Core\\TCT.Core.Modelo\\TCT.Core.Modelo.csproj"
               }
             }
           }
